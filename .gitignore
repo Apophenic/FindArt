@@ -42,8 +42,23 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.mp3
-(test library)/(orig)/Insomnium/Above the Weeping World/01 The Gale.m4a
+(test library)
 *.m4a
-(test library)/test/iTunes Music Library.xml
-*.jpg
 iTunes Music Library.xml
+
+FindArt.suo
+FindArt.v12.suo
+todo.txt
+.idea
+GoogleArt/bin
+.vs
+exe/policy.2.0.taglib-sharp.config
+exe/FindArt.exe.config
+exe/FindArt.vshost.exe.manifest
+exe/FindArt.vshost.exe.config
+exe/taglib-sharp.dll
+exe/FindArt.vshost.exe
+exe/policy.2.0.taglib-sharp.dll
+exe/FindArt.pdb
+GoogleArt/obj/Debug
+GoogleArt/FodyWeavers.xml
