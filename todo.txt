@@ -1,7 +1,0 @@
-*LESSER
--add support for min/max img size + variable img size and quality (adjusted in Utils.resize)
---option to load more images on artcontrol
---Image search options
--option to autoselect first image w/o confirmation
--Change artist/album dicts to lists; implement indexer in library for artist name + use insensitive ordinal equals comparisons
--Maybe remove isMissing flag in GUI and use timer.enabled instead ?
